@@ -1,0 +1,6 @@
+<div class="container">
+    <text class="title">
+        {{ $t('strings.hello') }} {{ title }}
+        {{"--"}}{{"张明悦"}}
+    </text>
+</div>
